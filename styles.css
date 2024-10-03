@@ -8,6 +8,7 @@ a {
    font-size: 12px;
 }
 
+
 /* TODO: Add styles here */
 
 /*style for body*/
@@ -28,9 +29,11 @@ h1{
 p{
    color:white;
    width:350px;
-   font: size 16px;
+   font-size: 16px;
    padding: 10px;
    background:linear-gradient(to bottom right, darkblue,skyblue);
    box-shadow: 5px 5px 6px gray;
    border-radius: 5px;
 }
+
+/* TODO: Add styles here */
